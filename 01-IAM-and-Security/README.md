@@ -42,10 +42,11 @@ You will also sign in as the new user in a private window while the root session
 4. Open the account menu in the top-right corner. It shows only the account ID (`<ACCOUNT_ID>`), which is how you recognise a root session.
 
 <!-- Screenshot suggestion: IAM dashboard with the Global Projectel visible. Redact the account ID. -->
+<img width="941" height="329" alt="image" src="https://github.com/user-attachments/assets/c0e63ede-67a8-48e9-8028-7a8fa7802932" />
 
 ### Part 2: Create the user and the admin group
 
-1. In the left menu, choose **Users**, then **Create user**.
+1. In the left menu, choose **IAM Users**, then **Create user**.
 2. Enter a user name that identifies you, for example `<your-name>`.
 3. Tick **Provide user access to the AWS Management Console**, then choose **I want to create an IAM user**.
    - IAM Identity Center is the recommended option for real organizations. An IAM user is simpler for learning and is what the certification exam expects you to know.
@@ -62,6 +63,8 @@ You will also sign in as the new user in a private window while the root session
 10. The success page offers to email sign-in instructions or download a CSV file of credentials. If you download it, store it privately and never commit it to a repository.
 
 <!-- Screenshot suggestion: the review page showing group permissions. -->
+<img width="929" height="409" alt="image" src="https://github.com/user-attachments/assets/c067435b-00e9-4797-90f7-7f064d38cd43" />
+
 
 ### Part 3: Verify the permissions
 
@@ -85,7 +88,7 @@ You will also sign in as the new user in a private window while the root session
    - Private window: shows the IAM user name and the account ID.
    - Normal window: shows only the account ID, which is the root session.
 
-### Part 6: Try multi-session support
+### Part 6: Try multi-session support (optional)
 
 1. In the console, open the account menu in the top-right corner and turn on **multi-session support**.
 2. In the same menu, choose **Add session**.
