@@ -1,0 +1,17 @@
+# Credentials and secrets - never commit these
+*credentials*.csv
+*accessKeys*.csv
+*.pem
+*.ppk
+*.key
+.env
+.aws/
+
+# Terraform, for later
+.terraform/
+*.tfstate*
+
+# Editor noise
+.DS_Store
+Thumbs.db
+.vscode/
