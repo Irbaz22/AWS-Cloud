@@ -80,8 +80,8 @@ Crop or blur account IDs before committing.
 ![Root and IAM user signed in side by side](docs/screenshots/05-two-sessions.png)
 -->
 ## Screenshots
-<img width="1100" height="800" alt="cx23W0dMdz" src="https://github.com/user-attachments/assets/4fa2b74b-ce9d-4619-857d-b4cedd1257a1" />
-<img width="1100" height="800" alt="iam  group permission" src="https://github.com/user-attachments/assets/39bd7a50-a18d-4e69-9bde-48d165272e13" />
+
+<img width="832" height="529" alt="iam  group permission" src="https://github.com/user-attachments/assets/76a9b607-f6f0-43db-aca0-3ca9a603939c" />
 <img width="1703" height="1052" alt="image" src="https://github.com/user-attachments/assets/1fe66388-b0ca-4546-96b0-f4344aa08f21" />
 <img width="1098" height="1097" alt="image" src="https://github.com/user-attachments/assets/1a9df0c3-0552-414a-bed3-0fb8f3b2d3dd" />
 
