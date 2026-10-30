@@ -80,16 +80,10 @@ Crop or blur account IDs before committing.
 ![Root and IAM user signed in side by side](docs/screenshots/05-two-sessions.png)
 -->
 ## Screenshots
-
-![IAM dashboard showing Global region](<img width="1108" height="616" alt="brave_AsQsMiEE4x" src="https://github.com/user-attachments/assets/84a6cb83-1a1b-4fac-9bf6-4ac246d99178" />)
-![admin group with AdministratorAccess](<img width="2200" height="1599" alt="image" src="https://github.com/user-attachments/assets/bdf7f810-5e83-44a6-862c-71ff07cdd395" />
-)
-![User permissions inherited from group](<img width="1106" height="780" alt="brave_v1uharduhE" src="https://github.com/user-attachments/assets/1a62e579-c447-412a-8a94-f58aaab6e677" />
-)
-![Account alias and sign-in URL](docs/screenshots/04-account-alias.png)
-![Root and IAM user signed in side by side](docs/screenshots/05-two-sessions.png)
-
-
+<img width="1100" height="800" alt="cx23W0dMdz" src="https://github.com/user-attachments/assets/4fa2b74b-ce9d-4619-857d-b4cedd1257a1" />
+<img width="1100" height="800" alt="iam  group permission" src="https://github.com/user-attachments/assets/39bd7a50-a18d-4e69-9bde-48d165272e13" />
+<img width="1703" height="1052" alt="image" src="https://github.com/user-attachments/assets/1fe66388-b0ca-4546-96b0-f4344aa08f21" />
+<img width="1098" height="1097" alt="image" src="https://github.com/user-attachments/assets/1a9df0c3-0552-414a-bed3-0fb8f3b2d3dd" />
 
 ## Author
 
